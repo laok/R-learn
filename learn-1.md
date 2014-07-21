@@ -15,6 +15,18 @@
 
 `$ R`
 
+##3.基本语法
+
+
+    $R: 
+    > getwd() 	#获取环境路径
+    > dir()		#环境路径下列举文件
+    > setwd("/Users/xx/examples") #设置环境路径，xx指登录用户名
+
+#### 说明	
+1. R语言是解释性语言，不是编译性语言
+2. 函数以（）结束，如果不写（），则输出关于改函数的相关信息
+
 ##网络资源
 
 
@@ -22,7 +34,8 @@
 2. [R demos](http://www.mayin.org/ajayshah/KB/R/)
 3. [Rexamples](http://www.stat.pitt.edu/stoffer/tsa3/Rexamples.htm)
 4. [数据科学与R语言](http://xccds1977.blogspot.com)
-[](http://cos.name/cn/)
+5. [R语言中文网](http://www.r-china.net/portal.php)
+
 
 ###[书籍推荐来源](http://xccds1977.blogspot.com/2013/02/r.html)
 一、初学入门：
